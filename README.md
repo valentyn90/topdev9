@@ -4,7 +4,7 @@ I'm a Career Web developer with over 9 years of expertise.
 
 I've worked on web apps and websites for businesses to enterprise-sized platforms for significant companies.
 
-Technical Skills:
+### Technical Skills:
 
 ✅Languages: JavaScript, Python, PHP
 
