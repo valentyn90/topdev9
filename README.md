@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+I'm a Career Web developer with over 9 years of expertise.
+
+I've worked on web apps and websites for businesses to enterprise-sized platforms for significant companies.
+
+Technical Skills:
+✅Languages: Python, PHP, JavaScript
+✅Frameworks: Django, Node.js, WordPress, Laravel, Symfony
+✅Databases: MySQL, MongoDB, SQLite, PostgreSQL
+✅Others: AWS & Azure deployment, Git, GitHub
+
+I can help you flush out the details so that you can build the application you deserve.
+
+Thanks!
+
 <!--
 **vladimir-bezrukov/vladimir-bezrukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
