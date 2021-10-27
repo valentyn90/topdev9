@@ -10,7 +10,7 @@ I've worked on web apps and websites for businesses to enterprise-sized platform
 
 ✅Frameworks: React.js, Vue.js, Laravel, Symfony
 
-✅CMS: WordPress - website, theme, plugin development
+✅CMS: Drupal, WordPress - website, theme, plugin development
 
 ✅Databases: MySQL, MongoDB, SQLite, PostgreSQL
 
