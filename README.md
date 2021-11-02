@@ -8,7 +8,7 @@ I've worked on web apps and websites for businesses to enterprise-sized platform
 
 ✅Languages: JavaScript, PHP, Python
 
-✅Frameworks: React.js, Vue.js, Laravel, Symfony, Django
+✅Frameworks: React.js, Vue.js, Node.js, Laravel, Symfony, Django, Flask
 
 ✅CMS: Drupal, WordPress - website, theme, plugin development
 
