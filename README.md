@@ -6,9 +6,9 @@ I've worked on web apps and websites for businesses to enterprise-sized platform
 
 ### Technical Skills
 
-✅Languages: JavaScript, PHP, Python
+✅Languages: JavaScript, Ruby, PHP, Python
 
-✅Frameworks: React.js, Vue.js, Node.js, Laravel, Symfony, Django, Flask
+✅Frameworks: React.js, Vue.js, Node.js, Ruby on Rails, Laravel, Symfony, Django, Flask
 
 ✅CMS: Drupal, WordPress - website, theme, plugin development
 
