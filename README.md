@@ -6,15 +6,15 @@ I've worked on web apps and websites for businesses to enterprise-sized platform
 
 ### Technical Skills
 
-✅Languages: JavaScript, Ruby, PHP, Python
+✅Languages: JavaScript, TypeScript, Ruby
 
-✅Frameworks: React.js, Vue.js, Node.js, Ruby on Rails, Laravel, Symfony, Django, Flask
+✅Frameworks: React.js, Vue.js, Node.js, Ruby on Rails
 
-✅CMS: Drupal, WordPress - website, theme, plugin development
+✅CMS: WordPress - website, theme, plugin development
 
 ✅Databases: MySQL, MongoDB, SQLite, PostgreSQL
 
-✅Others: AWS & Azure & Heroku
+✅Others: AWS(Amazon EC2, Amazon RDS, Amazon Lambda, Amazon Glacier, Amazon S3, Amazon CloudFront, Amazon ElasticCache, etc.)
 
 I can help you flush out the details so that you can build the application you deserve.
 
