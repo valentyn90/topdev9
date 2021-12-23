@@ -6,9 +6,9 @@ I've worked on web apps and websites for businesses to enterprise-sized platform
 
 ### Technical Skills
 
-✅Languages: JavaScript, TypeScript, Ruby
+✅Languages: JavaScript, TypeScript, Ruby, Python
 
-✅Frameworks: React.js, Vue.js, Node.js, Angular, Ruby on Rails
+✅Frameworks: React.js, Vue.js, Node.js, Next.js, Angular, Ruby on Rails, Django
 
 ✅Databases: MySQL, MongoDB, SQLite, PostgreSQL
 
