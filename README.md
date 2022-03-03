@@ -2,14 +2,17 @@
 </h1>
 
 
-I'm a Career full stack developer with over 9 years of hands-on expertise.
+I'm a Career full stack developer with over 10 years of hands-on expertise.
 
 I've worked on web apps and websites for businesses to enterprise-sized platforms for significant companies.
 
+✅Languages: JavaScript, TypeScript, PHP, Ruby, Python, C#
 
-✅Languages: JavaScript, TypeScript, Ruby, Python
+✅Frameworks: React.js, Vue.js, Node.js, Next.js, Angular, Laravel, Ruby on Rails, Django, .NET, ASP.NET
 
-✅Frameworks: React.js, Vue.js, Node.js, Next.js, Angular, Ruby on Rails, Django
+✅CMS: WordPress/WooCommerce
+
+✅Ecommerce: Shopify
 
 ✅Databases: MySQL, MongoDB, SQLite, PostgreSQL
 
