@@ -22,7 +22,7 @@ I can help you flush out the details so that you can build the application you d
 
 Thanks!
 
-//--
+/***
 ✅Languages: JavaScript, TypeScript, PHP, Ruby, Python, C#
 
 ✅Frameworks: React.js, Vue.js, Node.js, Next.js, Angular, Laravel, Ruby on Rails, Django, .NET, ASP.NET
@@ -38,4 +38,4 @@ Thanks!
 I can help you flush out the details so that you can build the application you deserve.
 
 Thanks!
---//
+*/
